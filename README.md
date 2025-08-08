@@ -36,7 +36,7 @@
 
 ## Github stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=obedcerda&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/obedcerda)
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=obedcerda&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/obedcerda)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obedcerda&layout=compact&theme=radical)
 
