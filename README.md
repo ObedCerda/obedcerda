@@ -13,9 +13,10 @@
 - ![C++ - my first language](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) (Scripting and embedded systems) 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) Currently learning
 ---
-## Frameworks
+## Frameworks / Tools
 #### Backend 
 - FastAPI
+- Postman
 #### Data
 - Pytorch
 - Scikit-Learn
