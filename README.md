@@ -31,7 +31,7 @@
 ---
 ## Currently learning
 - Javascript
-- Node.js
+- Next.js
 - Databricks
 ---
 
